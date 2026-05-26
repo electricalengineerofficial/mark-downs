@@ -1,7 +1,7 @@
 # 12-MONTH CONTENT CALENDAR
 ## @ElectricalEngineerOfficial
 
----
+----
 
 ## MONTH 1: JANUARY - Foundation & Authority Building
 
@@ -277,20 +277,713 @@ DAILY/3x WEEK - YouTube Shorts (30-60 seconds)
 - Subscriber growth rate
 - Watch time trends
 
----
 
-## QUALITY GATES (Before Publishing)
-
-✅ Title: Keyword-rich, professional, descriptive
-✅ Description: 350+ words, timestamps, links, tags verified
-✅ Thumbnail: Professional, readable, on-brand
-✅ Audio: Clear, consistent levels, no background noise
-✅ Captions: Accurate and proofread
-✅ Cards/End Screens: Strategically placed for next video
-✅ Metadata: All tags, category, playlist assignment complete
 
 ---
+# VIDEO SEO OPTIMIZATION TEMPLATES
+## For @ElectricalEngineerOfficial
+
+---
+
+## TEMPLATE 1: FOUNDATIONAL CONCEPT VIDEOS
+*Used for: Ohm's Law, Voltage, Current, Components, etc.*
+
+### Title (60 characters max)
+```
+Format: [Concept]: [Benefit] | [Context]
+
+Example (GOOD):
+"Ohm's Law Explained: Complete Guide for Engineers"
+(58 chars) ✅
+
+Example (BAD):
+"Understanding Electricity Better"
+- Too generic, no keywords
+❌
+```
+
+### Description Template (400-500 words)
+```
+🔌 LEARN: [Main Topic] in Professional Electrical Engineering
+
+In this comprehensive video, we explore [topic name] - a fundamental 
+concept in electrical engineering that every professional must understand.
+
+You'll discover:
+✓ What [concept] is and why it matters
+✓ Real-world applications in industry
+✓ Calculations and examples
+✓ Common mistakes to avoid
+✓ Professional best practices
+
+TIMESTAMPS:
+0:00 Introduction
+2:15 [Concept] Definition & Theory
+5:30 Fundamental Equations
+8:45 Practical Examples
+12:10 Real-World Applications
+15:30 Common Mistakes
+17:45 Summary & Key Takeaways
+
+WHAT YOU'LL LEARN:
+- [Learning point 1]
+- [Learning point 2]
+- [Learning point 3]
+- [Learning point 4]
+
+This video follows IEEE and international electrical engineering standards.
+
+RELATED VIDEOS:
+📺 [Related Video 1]: https://youtu.be/[ID]
+📺 [Related Video 2]: https://youtu.be/[ID]
+📺 [Related Video 3]: https://youtu.be/[ID]
+
+PLAYLIST:
+📚 [Playlist Name]: https://www.youtube.com/playlist?list=[ID]
+
+RESOURCES:
+📖 IEEE Standards: https://...
+📖 NEC Code Reference: https://...
+📖 [Textbook/Resource]: https://...
+
+#ElectricalEngineering #[Topic] #EngineeringEducation
+
+CHAPTERS:
+0:00 Introduction
+2:15 Theory
+5:30 Equations
+8:45 Examples
+12:10 Applications
+15:30 Mistakes
+17:45 Summary
+```
+
+### Primary Tags (5-7 tags)
+```
+Examples for "Ohm's Law" video:
+1. electrical engineering tutorial
+2. ohm's law explained
+3. electrical basics
+4. circuit analysis
+5. voltage current resistance
+6. electrical engineering basics
+7. power calculation
+```
+
+### Secondary Tags (8-15 tags)
+```
+Examples for "Ohm's Law" video:
+1. ohms law
+2. V = IR formula
+3. electrical theory
+4. circuit fundamentals
+5. resistance calculation
+6. current calculation
+7. voltage calculation
+8. electrical engineering course
+9. electrical engineering for beginners
+10. power systems basics
+11. electronics tutorial
+12. engineering education
+```
+
+### Thumbnail Design
+```
+Size: 1280x720px
+Font: Bold, White, sans-serif (Impact or Arial)
+Layout:
+- Background: Electric blue gradient
+- Main image: Relevant circuit/component photo (center)
+- Text: Large white title + yellow highlight
+- Accent: Yellow arrow or circle to main element
+- Optional: Small photo of you (top right, professional)
+
+Example for "Ohm's Law":
+[Blue background] | [Simple circuit diagram image]
+WHITE TEXT: "OHM'S LAW"
+YELLOW TEXT/ARROW: Pointing to key element
+Small your photo: Expert thumbnail
+```
+
+---
+
+## TEMPLATE 2: INDUSTRIAL APPLICATION VIDEOS
+*Used for: Motor Control, Power Distribution, Transformers, etc.*
+
+### Title (65 characters max)
+```
+Format: [System/Device]: [Action/Goal] [Specification]
+
+Example (GOOD):
+"Industrial Power Distribution Design & Safety Standards"
+(61 chars) ✅
+
+Example (BAD):
+"Power Distribution Stuff Explained"
+❌ Too generic
+```
+
+### Description Template (450-550 words)
+```
+⚡ INDUSTRIAL ELECTRICAL SYSTEMS: [Topic Name]
+
+Master [topic name] - a critical system in industrial electrical 
+engineering. This in-depth guide covers design, safety, and best practices 
+based on NEC and IEC standards.
+
+WHAT'S COVERED:
+✓ System Overview & Components
+✓ Design Principles & Calculations
+✓ Safety Standards (NEC/IEC/NFPA)
+✓ Installation Best Practices
+✓ Real-World Case Studies
+✓ Troubleshooting & Maintenance
+
+TIMESTAMPS:
+0:00 Introduction
+2:30 System Overview
+6:15 Components & Function
+10:00 Design Methodology
+15:45 Safety Standards Overview
+19:30 Installation Procedures
+23:15 Case Study
+26:30 Troubleshooting Tips
+28:45 Summary
+
+LEARNING OUTCOMES:
+- Understand design requirements
+- Apply safety standards correctly
+- Perform accurate calculations
+- Implement best practices
+- Troubleshoot common issues
+
+PROFESSIONAL RESOURCES:
+📋 Calculation Sheet: https://[download-link]
+📖 IEEE Std [Number]: https://...
+📖 NEC 2026 Article [Number]: https://...
+📖 IEC Standard [Number]: https://...
+
+CHAPTER LINKS:
+Basics (0:00-2:30)
+Components (2:30-10:00)
+Design (10:00-15:45)
+Safety (15:45-19:30)
+Installation (19:30-23:15)
+Case Study (23:15-26:30)
+Troubleshooting (26:30-28:45)
+Summary (28:45-end)
+
+EQUIPMENT MENTIONED:
+- [Equipment 1]
+- [Equipment 2]
+- [Equipment 3]
+(Include brands if demo'd, no sponsorship needed)
+
+FURTHER LEARNING:
+📚 [Playlist Name]: https://youtube.com/playlist?list=[ID]
+📚 [Related Series]: https://youtube.com/playlist?list=[ID]
+🔗 My website: https://...
+
+FOLLOW FOR MORE:
+✓ Subscribe for weekly engineering content
+✓ Enable notifications for new videos
+✓ Join our community for discussions
+
+STANDARDS REFERENCED:
+• National Electrical Code (NEC)
+• International Electrotechnical Commission (IEC)
+• NFPA Standards
+• IEEE Standards
+
+#IndustrialElectrical #ElectricalDesign #PowerSystems 
+#ElectricalEngineering #SafetyStandards
+```
+
+### Primary Tags (6-8 tags)
+```
+Examples for "Power Distribution Design" video:
+1. industrial electrical systems
+2. power distribution design
+3. electrical engineering
+4. NEC code compliance
+5. electrical safety
+6. power systems engineering
+7. industrial systems
+8. electrical installation
+```
+
+### Secondary Tags (10-15 tags)
+```
+Examples for "Power Distribution Design" video:
+1. power distribution
+2. electrical design
+3. load calculation
+4. cable sizing
+5. electrical code
+6. industrial power
+7. three phase power
+8. electrical infrastructure
+9. substation design
+10. transformer installation
+11. breaker coordination
+12. grounding design
+13. electrical safety
+14. engineering standards
+15. voltage drop calculation
+```
+
+---
+
+## TEMPLATE 3: SAFETY & STANDARDS VIDEOS
+*Used for: NEC, IEC, Safety, Compliance, etc.*
+
+### Title (65 characters max)
+```
+Format: [Standard/Topic]: [Action] [Context]
+
+Example (GOOD):
+"National Electrical Code (NEC): Essential Rules Explained"
+(61 chars) ✅
+```
+
+### Description Template (400-500 words)
+```
+🛡️ ELECTRICAL SAFETY & STANDARDS: [Topic Name]
+
+Understand the critical [standard/topic] that governs electrical 
+safety and compliance. This video breaks down [standard name] 
+requirements and practical applications.
+
+WHY THIS MATTERS:
+✓ Legal compliance requirement
+✓ Worker safety critical
+✓ Insurance & liability protection
+✓ Professional certification prep
+✓ Best practice in industry
+
+CONTENTS:
+0:00 Introduction
+1:45 Standard Overview
+4:30 Key Requirements
+9:15 Practical Applications
+14:00 Common Violations
+17:30 Compliance Checklist
+20:00 Summary
+
+KEY TOPICS COVERED:
+- Article [XX] Requirements
+- Safety Procedures
+- Testing & Verification
+- Documentation Requirements
+- Inspection Processes
+- Penalty & Non-Compliance Issues
+
+STANDARD REFERENCES:
+📋 [Standard Name & Year Edition]
+📖 Download Link: https://...
+📖 Summary PDF: https://...
+🔗 Official: https://...
+
+COMPLIANCE REQUIREMENTS:
+☑️ [Requirement 1]
+☑️ [Requirement 2]
+☑️ [Requirement 3]
+☑️ [Requirement 4]
+
+CERTIFICATION PREP:
+This video helps prepare for:
+- Professional Engineer (PE) Exam
+- Electrical Inspector License
+- Certified Electrical Safety Worker
+- [Other relevant certifications]
+
+TIMESTAMPS & CHAPTERS:
+0:00 Why Electrical Safety Matters
+1:45 Standard Overview & History
+4:30 Key Requirements Breakdown
+9:15 Real-World Applications
+14:00 Common Mistakes & Violations
+17:30 Compliance Checklist
+20:00 Summary & Next Steps
+
+RELATED SAFETY CONTENT:
+📺 [Video 1]: https://youtu.be/[ID]
+📺 [Video 2]: https://youtu.be/[ID]
+📺 [Video 3]: https://youtu.be/[ID]
+
+PLAYLISTS:
+📚 Safety & Standards: https://youtube.com/playlist?list=[ID]
+📚 Code References: https://youtube.com/playlist?list=[ID]
+
+FOR PROFESSIONALS:
+👷 Electrical Inspectors
+⚡ Licensed Electricians
+🔧 Maintenance Technicians
+👨‍💼 Facility Managers
+📚 Students & Interns
+
+IMPORTANT DISCLAIMER:
+This video is educational. Always consult local codes 
+and authority having jurisdiction (AHJ) for specific requirements.
+
+#ElectricalSafety #NEC #ElectricalCode #Safety #NFPA 
+#ElectricalStandards #Compliance #ElectricalEngineering
+```
+
+### Primary Tags (6-8 tags)
+```
+Examples for "NEC Code" video:
+1. NEC electrical code
+2. electrical safety standards
+3. electrical compliance
+4. national electrical code
+5. electrical safety
+6. code requirements
+7. standards compliance
+8. electrical inspector
+```
+
+---
+
+## TEMPLATE 4: SHORTS FORMAT
+*30-60 seconds - Educational microlearning*
+
+### Title Format
+```
+Best: [Concept]: [Quick Fact] | [Time]
+
+Examples:
+✅ "Ohm's Law: Quick Explanation | 45 Seconds"
+✅ "Circuit Breaker Tripping: Why & How | 60 Seconds"
+✅ "3 Phase Power: What You Need to Know | 50 Seconds"
+
+Bad:
+❌ "Electrical Stuff"
+❌ "Quick Video"
+```
+
+### Description (Short, snappy)
+```
+⚡ Quick Concept: [Topic Name]
+
+Learn [concept] in under 60 seconds!
+
+Key Points:
+- [Point 1]
+- [Point 2]
+- [Point 3]
+
+Watch the full video: [Link to full video]
+
+#ElectricalEngineering #Shorts #Engineering #Learn
+```
+
+### Tags (Shorts-optimized)
+```
+1. electrical engineering
+2. [concept] explained
+3. engineering shorts
+4. electrical basics
+5. quick tutorial
+6. #shorts
+```
+
+---
+
+## TEMPLATE 5: COMMUNITY TAB POST
+
+### Post Types & Timing
+
+**MONDAY 10 AM - Question/Poll Post**
+```
+🔌 MONDAY QUESTION: What's your biggest challenge with [topic]?
+
+A) Understanding the theory
+B) Practical application
+C) Calculations
+D) Code compliance
+
+Vote below! And drop your thoughts in the comments.
+
+Next video on Friday covers [topic] in detail!
+```
+
+**WEDNESDAY 10 AM - News/Update Post**
+```
+📰 INDUSTRY UPDATE: [News headline]
+
+[Short 2-3 sentence summary of news]
+
+Why it matters:
+• [Impact 1]
+• [Impact 2]
+
+What do you think about this development?
+
+🎥 Related videos:
+- [Video 1]
+- [Video 2]
+```
+
+**FRIDAY 5 PM - Video Release Announcement**
+```
+🚀 NEW VIDEO LIVE: [Video Title]
+
+Now available: [Video topic] explained with:
+✓ Complete methodology
+✓ Real-world examples
+✓ Safety standards
+✓ Industry best practices
+
+Watch here: [Link]
+
+Like & subscribe if you find it helpful!
+
+What would you like to learn next?
+```
+
+**BONUS - Tip/Hack Post (Daily optional)**
+```
+💡 QUICK TIP: [Engineering tip/hack]
+
+Did you know: [Short interesting fact]
+
+This can save you: [time/money/effort]
+
+Have you used this trick? Tell me in the comments!
+```
+
+---
+
+## TEMPLATE 6: LIVE SESSION FORMAT
+
+### Title Format
+```
+Examples:
+✅ "Live Q&A: Your Electrical Engineering Questions Answered"
+✅ "Live Problem Solving: Circuit Analysis & Troubleshooting"
+✅ "Live Discussion: Power Systems in 2026"
+```
+
+### Description
+```
+LIVE SESSION: [Topic Name]
+
+Join me live for:
+📺 Live Q&A - Your Questions Answered
+💬 Real-time Discussion
+🔍 Problem Solving
+📊 Calculations & Examples
+
+WHAT TO EXPECT:
+- Answer your engineering questions
+- Solve complex problems together
+- Discuss industry trends
+- Collaborate on challenges
+- Interactive learning
+
+HOW TO PARTICIPATE:
+1. Submit questions in comments before/during live
+2. Ask questions via chat during the stream
+3. Share your experiences & insights
+4. Vote on topics to discuss
+
+TOPICS (Suggested):
+- [Topic 1]
+- [Topic 2]
+- [Topic 3]
+[Open for audience suggestions]
+
+LIVE TIME: [Day] [Time] [Timezone]
+Duration: Approx 45-60 minutes
+
+Set a reminder: [Link]
+
+See you there! 🔴 LIVE
+
+#ElectricalEngineering #LiveQA #Engineering #Community
+```
+
+---
+
+## OPTIMIZATION CHECKLIST (Pre-Upload)
+
+### Title & Description (30 min before upload)
+- [ ] Primary keyword in title (first 65 chars)
+- [ ] Secondary keywords in description
+- [ ] Description 350+ words minimum
+- [ ] Timestamps in correct format
+- [ ] Links added (related videos, playlists)
+- [ ] Hashtags (3-5 relevant)
+- [ ] NO keyword stuffing (reads naturally)
+
+### Tags (Before Upload)
+- [ ] 5-7 primary tags added
+- [ ] 8-15 secondary tags added
+- [ ] Tags match video content
+- [ ] Mix of specific & broad terms
+
+### Technical Setup
+- [ ] Thumbnail finalized (1280x720px)
+- [ ] Captions uploaded & proofread
+- [ ] Category: "Education"
+- [ ] Playlist assigned
+- [ ] Visibility: Public
+- [ ] Made for Kids: Correctly set
+- [ ] License: Standard YouTube License
+
+### After Upload (First Hour)
+- [ ] Pin comment with timestamps
+- [ ] Add 2-3 cards strategically
+- [ ] Add end screen (next video link)
+- [ ] Share to Community Tab
+- [ ] Share on professional networks
+- [ ] First response prepared for comments
+
+### Monitoring (First 24 hours)
+- [ ] Check CTR (target: 8%+)
+- [ ] Monitor comment section
+- [ ] Engage with top comments
+- [ ] Watch for common questions
+- [ ] Note feedback for next video
+
+---
+
+## KEY METRICS TO TRACK
+
+**Per Video Dashboard:**
+
+| Metric | Target | Action if Below |
+|--------|--------|-----------------|
+| Click-Through Rate (CTR) | 8%+ | Improve thumbnail |
+| Average View Duration | 50%+ of length | Check pacing, cut intro |
+| Engagement Rate | 5%+ | Ask questions, calls to action |
+| Subscriber Growth | +50 per video | Improve content quality |
+| Watch Time (hours) | +200 per video | Longer videos, better content |
+
+---
+
+## SAMPLE COMPLETED TEMPLATE
+### "Three-Phase Power Systems: Complete Breakdown"
+
+**Title (20 chars):** 
+"Three-Phase Power Systems: Complete Breakdown"
+
+**Tags:**
+Primary: industrial electrical systems | three phase power | electrical engineering | power systems | AC systems | electrical design | power distribution
+
+Secondary: three phase | industrial power | electrical theory | AC circuits | power generation | electrical systems | power transmission | industrial systems | circuit analysis | transformer design | motor power | power engineering | electrical installation | systems analysis | physics
+
+**Description:**
+```
+⚡ INDUSTRIAL ELECTRICAL SYSTEMS: Three-Phase Power Explained
+
+Master three-phase AC power systems - the backbone of industrial 
+electrical engineering. This comprehensive guide covers theory, 
+calculations, and real-world applications based on IEEE standards.
+
+WHY YOU NEED THIS:
+✓ 95% of industrial power is three-phase
+✓ Essential for engineers & technicians
+✓ Critical for system design & analysis
+✓ Required for professional certification
+
+WHAT'S COVERED:
+✓ Single-Phase vs Three-Phase (why 3Ø is better)
+✓ Phase Relationship & 120° Separation
+✓ Voltage & Current Calculations
+✓ Power Calculations (Real, Reactive, Apparent)
+✓ Delta vs Wye Connections
+✓ Real-World Industrial Applications
+✓ System Design & Troubleshooting
+
+TIMESTAMPS:
+0:00 Introduction & Overview
+2:15 Single vs Three-Phase Comparison
+5:30 Phase Relationships Explained
+8:45 Voltage Calculations (Line & Phase)
+12:10 Current Calculations
+15:45 Power Calculations (P, Q, S)
+19:30 Delta vs Wye Connections (Detailed)
+23:15 Real-World Applications
+26:00 Design Considerations
+28:30 Summary & Key Takeaways
+
+KEY EQUATIONS:
+VL = √3 × Vph (Wye connection)
+IL = Iph (Wye connection)
+P = √3 × VL × IL × PF × cos(θ)
+S = √3 × VL × IL (Apparent Power)
+
+LEARNING OUTCOMES:
+- Understand three-phase generation & transmission
+- Calculate voltages, currents, and power
+- Design three-phase systems correctly
+- Troubleshoot common three-phase issues
+- Apply IEEE standards in design
+
+PROFESSIONAL RESOURCES:
+📋 Calculation Sheet PDF: [Download]
+📖 IEEE Std 141: "IEEE Recommended Practice for E.P. Systems"
+📖 NEC Article 310: "Conductors for General Wiring"
+🔗 NEMA Standard MG-1: "Motors & Generators"
+
+EQUIPMENT USED:
+- Digital Multimeter (measurements)
+- Clamp Meter (current measurement)
+- Power Quality Analyzer (demonstration)
+
+RELATED CONTENT:
+📺 Ohm's Law Explained: https://youtu.be/[ID]
+📺 AC Circuits: Impedance & Phase: https://youtu.be/[ID]
+📺 Transformers Explained: https://youtu.be/[ID]
+📺 Motor Control Systems: https://youtu.be/[ID]
+
+PLAYLISTS:
+📚 Industrial Electrical Systems: https://youtube.com/playlist?list=[ID]
+📚 Power Systems Engineering: https://youtube.com/playlist?list=[ID]
+📚 Complete Electrical Fundamentals: https://youtube.com/playlist?list=[ID]
+
+FOR PROFESSIONALS:
+👷 Electrical Engineers
+⚡ Licensed Electricians
+🔧 Maintenance Technicians
+👨‍💼 Facility Managers
+📚 Students & Interns
+🏭 Industrial Plant Operators
+
+CHAPTERS:
+0:00 Introduction
+2:15 1Ø vs 3Ø
+5:30 Phase Relationships
+8:45 Voltage Calculations
+12:10 Current Calculations
+15:45 Power Calculations
+19:30 Delta vs Wye
+23:15 Real Applications
+26:00 Design
+28:30 Summary
+
+Like & subscribe for more professional electrical engineering content!
+
+#ElectricalEngineering #PowerSystems #ThreePhasePower 
+#IndustrialElectrical #ElectricalDesign #Engineering
+```
+
+---
+
+**This document is your complete reference for all video uploads.**
+**Save it, bookmark it, and use it for every single video.**
+
+---
+
+*Last Updated: May 26, 2026*
+*Template Version: Professional Standard 2.0*
+
+-----
+
+
+
 
 **Last Updated:** May 26, 2026
-**Total Videos in Pipeline:** 72+ (Year 1)
-**Estimated Completion:** December 2026
+
